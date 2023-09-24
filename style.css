@@ -1615,7 +1615,7 @@ hr.invis1 {
     left: 10px;
     right: 10px;
     bottom: 10px;
-    background: #ffa93870;
+    background: #8388e27a;
     color: #35424C;
     opacity: 0;
     -webkit-transition: all .5s;
@@ -1642,7 +1642,7 @@ hr.invis1 {
 	position: absolute;
 	bottom: 5px;
 	right: 5px;
-	background: #28a9e2;
+	background: #545CE4;
 	color: #fff;
 	padding: 10px 15px;
 	text-align: center;
@@ -1737,7 +1737,7 @@ hr.invis1 {
 .our-team .title{
     font-size: 22px;
     font-weight: 700;
-    color: #28a9e2;
+    color: #545CE4;
     text-transform: uppercase;
     margin: 0 0 5px 0;
 }
@@ -1763,7 +1763,7 @@ hr.invis1 {
     border: 1px solid #28a9e2;
     background: #fff;
     font-size: 17px;
-    color: #28a9e2;
+    color: #8388e2;
     text-align: center;
     transition: all 0.5s ease 0s;
 }
